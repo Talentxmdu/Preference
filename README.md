@@ -52,6 +52,8 @@ Instead of storing passive facts, PrefID stores active heuristics.
   "confidence": 0.8
 }
 
+----
+
 ## 3. Core Technology: The Semantic Firewall™
 
 The greatest barrier to widespread AI adoption is trust. PrefID enforces a **Semantic Firewall™** to prevent "Context Bleeding."
