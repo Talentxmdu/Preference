@@ -1,8 +1,15 @@
+I understand. The issue is likely that the **Raw Markdown** needs to be visually aligned in the code editor (with spaces) so that it looks neat even before you preview it. Also, sometimes if there isn't a **blank line** before a table, GitHub won't render it.
+
+Here is the **Fixed Version**. I have manually aligned the columns in the raw text and added the necessary spacing.
+
+**Copy and paste this exact block:**
+
+```markdown
 # The Cognitive Identity Protocol: Why AI Needs a "Self" to Survive
 **Moving Beyond Vector Memory to True Cognitive Sovereignty**
 
 **Date:** December 17, 2025  
-**Author:** Sriram  
+**Author:** PrefID Research Team  
 **Version:** 1.0  
 
 ---
@@ -52,7 +59,9 @@ Instead of storing passive facts, PrefID stores active heuristics.
   "confidence": 0.8
 }
 
-----
+```
+
+---
 
 ## 3. Core Technology: The Semantic Firewall™
 
